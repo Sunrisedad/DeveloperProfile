@@ -89,7 +89,7 @@ header nav ul li a {
 
 h2 {
     font-family: Arial, Helvetica, sans-serif;
-    color: #0c0c0c;
+    color: #161515;
     font-size: 55px;
 }
 
@@ -118,6 +118,7 @@ h2 {
     grid-column-end: 2;
     grid-row-start: 1;
     grid-row-end: 8;
+    
     
 }
 
